@@ -6,6 +6,15 @@ A little repository for testing and demo-ing git commands and shortcuts
 
 ## General commands
 
+`cd`
+Go to the root level directory
+
+`cd directory-name`
+Move into the subdirectory _directory-name_
+
+`cd ../`
+Move up a directory
+
 `mkdir new-folder`
 Create a new directory
 
