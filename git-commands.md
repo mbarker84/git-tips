@@ -29,3 +29,15 @@ Stash your local changes
 
 `git stash apply`
 Apply the local changes you’ve stashed
+
+`git checkout -b new-branch-name`
+Create a new git branch and check it out
+
+`git branch -m old-branch-name new-branch-name` (alias to `git branch --move`)
+Rename a branch locally
+
+`git push origin -u new-branch-name` (alias of `git push origin --set-upstream`)
+Set upstream
+
+`git push origin --delete old-branch-name`
+Delete an old remote branch
