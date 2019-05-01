@@ -41,3 +41,6 @@ Set upstream
 
 `git push origin --delete old-branch-name`
 Delete an old remote branch
+
+`git branch -d branch-name`
+Delete local branch
