@@ -93,3 +93,8 @@ Delete a stash
 
 `git stash clear`
 Clear all your stashes
+
+## Discard
+
+`git reset --hard`
+Discard your local changes without saving them
