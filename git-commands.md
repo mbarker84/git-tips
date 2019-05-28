@@ -23,6 +23,9 @@ Amend your last commit
 
 ## Branch
 
+`git branch --list`
+List all branches
+
 `git checkout -b new-branch-name`
 Create a new git branch and check it out
 
