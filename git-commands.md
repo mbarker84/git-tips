@@ -59,6 +59,16 @@ Perform a rebase – move
 `git rebase -i HEAD~3`
 Perform an interactive rebase – get the last 3 commits
 
+## Revert
+
+The `revert` command adds a new commit showing the revert.
+
+`git revert HEAD`
+Reverts the last commit
+
+`git revert 1061e79`
+Reverts the specified commit
+
 ## Stash
 
 `git stash`
