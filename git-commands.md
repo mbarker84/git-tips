@@ -35,6 +35,9 @@ Rename a branch locally
 `git branch -d branch-name`
 Delete local branch
 
+`git branch -D branch-name`
+Delete local unmerged branch (alias for `git branch --delete --force` )
+
 ## Pull
 
 `git pull origin branch-name`
